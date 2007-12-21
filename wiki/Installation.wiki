@@ -1,0 +1,10 @@
+#summary How to install fixname on different platforms.
+#labels Featured,Phase-Deploy
+
+= Introduction =
+
+This document describes how one can install fixname and how to test that
+the installation works correctly.
+
+
+= Details =
