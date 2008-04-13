@@ -1,5 +1,5 @@
 #summary How to install fixname on different platforms.
-#labels Featured,Phase-Deploy,Language-Polish
+#labels Featured,Phase-Deploy,Language-English
 
 = Introduction =
 
