@@ -1,5 +1,5 @@
 #summary Frequently Asked Questions
-#labels Featured,Phase-QA
+#labels Featured,Phase-QA,Language-English
 
 = Introduction =
 
